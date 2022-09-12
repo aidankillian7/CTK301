@@ -1,0 +1,36 @@
+h1 {
+  color: #BE3025;
+  background-color: #000000;
+}
+
+h2 {
+  color: #FFFFFF;
+  background-color: #F1DE20;
+}
+
+.turnred {
+  color: #D8060F;
+}
+
+.turnyellow {
+  color: #F1DE20;
+}
+
+#redback {
+  background-color: #BE3025;
+}
+
+
+a:link {
+color: #FF0000;
+text-decoration: none;
+}
+
+a:visited {
+ color: #5ED806;
+}
+
+a:hover {
+ color: #F1DE20;
+ text-decoration: underline;
+}

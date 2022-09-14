@@ -8,8 +8,8 @@ h2 {
   background-color: #F1DE20;
 }
 
-.turnred {
-  color: #D8060F;
+.turnwhite {
+  color: #FFFFFF;
 }
 
 .turnyellow {
@@ -20,6 +20,10 @@ h2 {
   background-color: #BE3025;
 }
 
+p {
+  color: #000000;
+  background-color: #BE3025;
+}
 
 a:link {
 color: #FF0000;
@@ -33,4 +37,22 @@ a:visited {
 a:hover {
  color: #F1DE20;
  text-decoration: underline;
+}
+
+h3 {
+  color: #BE3025;
+  background-color: #000000;
+}
+#greyfont {
+  color: #999993;
+}
+
+h4 {
+  color: #BEB425;
+  text-decoration: underline;
+}
+
+h5 {
+  color: #B5B49E;
+  text-decoration: underline;
 }

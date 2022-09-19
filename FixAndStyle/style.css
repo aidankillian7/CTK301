@@ -1,0 +1,54 @@
+#tealback {
+  background-color: #6E8DD8;
+}
+
+h1 {
+  color: #FFFFFF;
+}
+
+a:link {
+color: #11610C;
+text-decoration: none;
+}
+
+a:visited {
+ color: #5ED806;
+}
+
+a:hover {
+ color: #FF0707;
+ text-decoration: underline;
+}
+
+h2{
+  color: #0000FF;
+}
+
+.turnyellow {
+  color: #F1DE20;
+}
+
+h3{
+  color: #000;
+  background-color: #F9F354;
+}
+
+#redtext {
+  color: #FF0000;
+}
+ h4{
+   color: #F1DE20;
+   background-color: #115208;
+ }
+
+ #greenback {
+   background-color: #5CB151;
+}
+h5{
+  color: #FF0000;
+  background-color: #F1DE20;
+}
+
+#yellowback {
+  background-color: #F1DE20;
+}

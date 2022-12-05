@@ -103,6 +103,8 @@ h2 {
   text-align: center;
 }
 
+
+
 h3 {
   border-bottom: 3px solid white;
   padding-bottom: 10px;
@@ -129,9 +131,15 @@ h4{
 
 .textcenter {
   text-align: center;
-  margin: 0px auto;
+  margin: 0px;
   padding: 0px;
-  image-align: center;
+}
+
+.gambino{
+  width: 400px;
+  border-color: 10px solid #00563f;
+  margin: 100px;
+  text-align: center;
 }
 
 .circle {
